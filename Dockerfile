@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Kabir Rana <contact@dockerworx.com>
+MAINTAINER Karan Singh <contact@dockerworx.com>
 #ENV http_proxy "Corporate_proxy:8080"
 
 RUN apt-get update
